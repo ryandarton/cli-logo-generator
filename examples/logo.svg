@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <polygon points="150, 18 244, 182 56, 182" fill="Blue" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="White">RSD</text>
+      </svg>
